@@ -1,0 +1,20 @@
+* {
+	border: 1px dashed red;
+}
+
+.wrapper {
+	padding: 0px;
+	margin: 0px;
+	margin: auto;
+	width: 960px;
+	height: 960px;
+	
+}
+.square {
+	padding: 0px;
+	margin: 0px;
+	height: 60px;
+	width: 60px;
+	float: left;
+	display: inline-block;
+}
